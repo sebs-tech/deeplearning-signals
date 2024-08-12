@@ -21,5 +21,7 @@ Using Keras optimizers is essential for training neural networks effectively and
 6. **Momentum and Acceleration**: Some optimizers incorporate techniques like momentum (e.g., SGD with momentum) or adaptive moment estimation (e.g., Adam) to accelerate learning and smooth out the training process, which can lead to faster and more stable convergence.
 7. **Regularization**: Some optimizers (e.g., Adagrad, Adadelta) incorporate forms of regularization, either explicitly or implicitly, to improve generalization and avoid overfitting.
 8. **Ease of Use**: Keras provides a high-level API for optimizers, making it easy to experiment with different optimization algorithms without needing to implement them from scratch. This simplifies the process of training models and tuning their performance.
+
+
 Choosing the right optimizer and tuning its hyperparameters can have a significant impact on the performance and efficiency of your neural network. Keras optimizers offer a range of options, allowing you to select the most appropriate one based on your specific problem and data.
 
